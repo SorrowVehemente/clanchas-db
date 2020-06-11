@@ -4,6 +4,7 @@ Base de datos para el control de lanchas, la base de datos está creada en MySQL
 ## Estructura de la base de datos
 La estructura o el Diagrama Entidad-Relación es de la siguiente manera:
 
+![Diagrama Entidad-Relación](https://github.com/SorrowVehemente/clanchas-db/blob/master/db_lanchas_diagrama.png "Diagrama Entidad-Relación")
 
 En este repositorio se encuentran los archivos:
 + Dump Structure.sql
